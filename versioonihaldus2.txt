@@ -1,0 +1,9 @@
+
+Selle praktikumi lahendamiseks kasutan järgnevat juhendit: https://www.metshein.com/git-versioonihaldus/ 
+
+
+Eesnimi: Taavi 
+Perenimi: Taivere
+Kursus: VS21
+
+lisa faili git commit -m 'kommentaar'
